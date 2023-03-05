@@ -8,8 +8,6 @@ Prazo para término: 16/abr/2023
 
 Anotações iniciadas em 16/fev/2023.
 
-- [🔗 Links importantes 🔗](
-DIO-desafio-github/links-importantes.md)
-- [🔗 Documentos do meu Google Drive 🔗](
-DIO-desafio-github/links-docs-google-drive.md)
+- [🔗 Links importantes 🔗](links-importantes.md)
+- [🔗 Documentos do meu Google Drive 🔗](links-docs-google-drive.md)
 
