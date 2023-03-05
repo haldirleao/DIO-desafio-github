@@ -4,7 +4,7 @@ Descrição do desafio: "Reforce seu conhecimento em Git com um desafio de proje
 
 ### Minhas anotações
 
-Prazo para término: 16/abr/2023
+Prazo para término do Bootcamp: 16/abr/2023
 
 Anotações iniciadas em 16/fev/2023.
 
